@@ -1,0 +1,15 @@
+h1 {
+    font-size: 52px;
+
+
+}
+
+.opening-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    justify-content: center;
+}
